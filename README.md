@@ -1,2 +1,1 @@
-# 2d-k-nearest-neighbor-algorithm
-In this repository, the nearest neighbor algorithm is examined in 2D mode. Also, I performed five different metrics on the data, and I compared their results. I'm delighted to know your comments about this simple task of using the KNN algorithm.
+**In this project, we are dealing with a data set containing 60,000 images of English digits, and an attempt has been made to partially identify these digits using the clustering algorithm. This is a primary student project, and it can definitely be implemented in much better ways.**
